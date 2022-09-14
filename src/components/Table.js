@@ -8,7 +8,7 @@ class Table extends React.Component {
       <table>
         <thead>
           <tr>
-            <th>Nome </th>
+            <th>Nome</th>
             <th>Origem</th>
             <th>Status</th>
           </tr>
